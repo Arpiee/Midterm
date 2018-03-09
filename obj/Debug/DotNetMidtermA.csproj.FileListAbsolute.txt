@@ -1,0 +1,2 @@
+C:\Users\arpit\Desktop\comp2007-midterm-a-master\DotNetMidtermA\obj\Debug\DotNetMidtermA.csprojResolveAssemblyReference.cache
+C:\Users\arpit\Desktop\comp2007-midterm-a-master\DotNetMidtermA\obj\Debug\DotNetMidtermA.csproj.CoreCompileInputs.cache
